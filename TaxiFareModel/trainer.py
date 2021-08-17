@@ -5,9 +5,8 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 import pandas as pd
 import numpy as np
-from data import get_data, clean_data
-from encoders import DistanceTransformer, TimeFeaturesEncoder
-from utils import compute_rmse
+from TaxiFareModel.data import get_data, clean_data
+from TaxiFareModel.encoders import DistanceTransformer, TimeFeaturesEncoder
 
 
 class Trainer():
