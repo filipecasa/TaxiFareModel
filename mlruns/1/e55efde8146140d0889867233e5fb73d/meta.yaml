@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fil/code/filipecasa/TaxiFareModel/mlruns/1/e55efde8146140d0889867233e5fb73d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e55efde8146140d0889867233e5fb73d
+run_uuid: e55efde8146140d0889867233e5fb73d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629211040419
+status: 1
+tags: []
+user_id: unknown
